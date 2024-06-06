@@ -16,7 +16,7 @@ const listsToIncludeInEverythingList = [
 	"ransomware",
 	"redirect",
 	"scam",
-	"tiktok",
+	// "tiktok",
 	"torrent",
 	"tracking",
 
